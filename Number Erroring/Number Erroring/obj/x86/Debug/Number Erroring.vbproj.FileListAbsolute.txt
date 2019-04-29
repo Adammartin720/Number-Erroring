@@ -1,0 +1,22 @@
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\obj\x86\Debug\Number_Erroring.Form1.resources
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\obj\x86\Debug\Number_Erroring.Resources.resources
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\obj\x86\Debug\Number Erroring.vbproj.GenerateResource.Cache
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\bin\Debug\Number Erroring.exe
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\bin\Debug\Number Erroring.pdb
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\bin\Debug\Number Erroring.xml
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\obj\x86\Debug\Number Erroring.exe
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\obj\x86\Debug\Number Erroring.xml
+C:\Users\189376\AppData\Local\Temporary Projects\Number Erroring\obj\x86\Debug\Number Erroring.pdb
+F:\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.exe
+F:\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.xml
+F:\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\bin\Debug\Number Erroring.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\bin\Debug\Number Erroring.pdb
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\bin\Debug\Number Erroring.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number_Erroring.Form1.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number_Erroring.Resources.resources
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.vbproj.GenerateResource.Cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.vbproj.CoreCompileInputs.cache
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.exe
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.xml
+C:\Users\Adamm\Documents\Work Related Stuff\Hnd computing\VBprojects\Number Erroring\Number Erroring\obj\x86\Debug\Number Erroring.pdb
